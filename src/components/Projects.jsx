@@ -15,6 +15,12 @@ const projects = [
     link: "https://inquisitive-platypus-ea14aa.netlify.app/",
     category: "Frontend",
   },
+    {
+    title: "Studypal-AI",
+    desc: "A full stack website that is created for students to plan their study for subjects .",
+    link: "https://studypal-ai.netlify.app/",
+    category: "Full Stack",
+  },
   {
     title: "Portfolio Certificate Generator",
     desc: "A website to create certificates using JS, CSS, HTML.",
