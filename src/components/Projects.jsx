@@ -22,6 +22,12 @@ const projects = [
     category: "Full Stack",
   },
   {
+    title: "CourseAdvisor-AI",
+    desc: "A full stack website that is created for students to get courses according to their interest .",
+    link: "https://cadv.netlify.app/",
+    category: "Full Stack",
+  },
+  {
     title: "Portfolio Certificate Generator",
     desc: "A website to create certificates using JS, CSS, HTML.",
     link: "https://akshatds7.github.io/Certificate-Generator/",
