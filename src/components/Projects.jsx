@@ -27,6 +27,7 @@ const projects = [
     link: "https://cadv.netlify.app/",
     category: "Full Stack",
   },
+  
   {
     title: "Portfolio Certificate Generator",
     desc: "A website to create certificates using JS, CSS, HTML.",
