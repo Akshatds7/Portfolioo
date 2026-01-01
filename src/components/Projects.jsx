@@ -5,12 +5,6 @@ const categories = ["All", "Frontend", "Backend", "Full Stack", "Python"];
 const projects = [
   // 🌐 Frontend Projects
   {
-    title: "Learning-Hub",
-    desc: "A platform to learn various technologies at one place.",
-    link: "https://learning-hub1.netlify.app/",
-    category: "Frontend",
-  },
-  {
     title: "Keeper-App",
     desc: "React-based website to manage notes and schedules.",
     link: "https://inquisitive-platypus-ea14aa.netlify.app/",
@@ -20,6 +14,18 @@ const projects = [
     title: "Portfolio Certificate Generator",
     desc: "A website to create certificates using JS, CSS, HTML.",
     link: "https://akshatds7.github.io/Certificate-Generator/",
+    category: "Frontend",
+  },
+  {
+    title: "Movie Search Engine",
+    desc: "A platform to search movies and shows.",
+    link: "https://movieengg.netlify.app/",
+    category: "Frontend",
+  },
+  {
+    title: "Learning-Hub",
+    desc: "A platform to learn various technologies at one place.",
+    link: "https://learning-hub1.netlify.app/",
     category: "Frontend",
   },
   {
